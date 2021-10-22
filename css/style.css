@@ -1,0 +1,47 @@
+.block{
+    color: goldenrod;
+}
+
+.width{
+    width: 100%;
+}
+
+.textwidth{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.textarea{
+    width: 100%;
+    margin-top: 1px;
+}
+
+.form-control{
+    border: none !important;
+    border-radius: 0px !important;
+    border-radius: 0px !important;
+}
+
+#email{
+    margin-top: 1px;
+}
+
+#subject{
+    margin-top: 1px;
+}
+
+.font{
+    font-family: 'Georgia';
+    font-size: 20px;  
+}
+
+::placeholder{
+    font-family:'Georgia';
+}
+
+.font-sm{
+    font-family: 'Georgia';
+    font-size: 17px;  
+}
+
+
